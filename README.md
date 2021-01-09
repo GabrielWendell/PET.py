@@ -1,4 +1,4 @@
-# PET
+# PET.py
 Repositório contendo Notebooks elaborados pelo membro do PET - Física UFRN Gabriel Wendell Celestino Rocha como contribuição ao projeto PET.py.
 
 ## Sobre o PET.py
