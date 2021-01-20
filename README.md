@@ -17,3 +17,5 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 - [Radiação de corpo negro e a radiação cósmica de fundo (CMB).](https://github.com/GabrielWendell/PET/blob/master/Notebooks/A%20radia%C3%A7%C3%A3o%20do%20corpo%20negro%20e%20a%20radia%C3%A7%C3%A3o%20c%C3%B3smica%20de%20fundo%20(CMB).ipynb)
 
 - [Evolução e propagação temporal da função de onda.](https://github.com/GabrielWendell/PET/blob/main/Notebooks/Evolu%C3%A7%C3%A3o%20e%20propaga%C3%A7%C3%A3o%20temporal%20da%20fun%C3%A7%C3%A3o%20de%20onda.ipynb)
+
+- [A cor dos objetos celestes.](https://github.com/GabrielWendell/PET/blob/main/Notebooks/A%20cor%20dos%20objetos%20celestes.ipynb)
