@@ -19,3 +19,5 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 - [Evolução e propagação temporal da função de onda.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Evolução%20e%20propagação%20temporal%20da%20função%20de%20onda.ipynb)
 
 - [A cor dos objetos celestes.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20cor%20dos%20objetos%20celestes.ipynb)
+
+- [Convecção, difusão e a equação de Burgers.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Convecção%2C%20difusão%20e%20a%20equação%20de%20Burgers.ipynb)
