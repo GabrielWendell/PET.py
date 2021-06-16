@@ -21,3 +21,43 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 - [A cor dos objetos celestes.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20cor%20dos%20objetos%20celestes.ipynb)
 
 - [Convecção, difusão e a equação de Burgers.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Convecção%2C%20difusão%20e%20a%20equação%20de%20Burgers.ipynb)
+
+
+
+### Outros Notebooks
+Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET - Física / UFRN que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
+
+#### Gabriel Zuza Diniz
+- [Pêndulo simples](https://github.com/GabrielZuza/PET/blob/master/Pendulo_Simples.ipynb)
+- [Curvas de Lissajous](https://github.com/GabrielZuza/PET/blob/master/Curva_de_lissajous.ipynb)
+- [Ciclo magnético solar por transformada de Fourier](https://github.com/GabrielZuza/PET/blob/master/Sunspots.ipynb)
+- [Pêndulo duplo](https://github.com/GabrielZuza/PET/blob/master/Duble_Pendulum.ipynb)
+- [Orbitais quânticos: harmônicos esféricos](https://github.com/GabrielZuza/PET/blob/master/Quantum_Orbitals_Spherical_harmonics.ipynb)
+- [Pêndulo de Wilberforce](https://github.com/GabrielZuza/PET/blob/master/Wilberforce_Pendulum.ipynb)
+
+
+#### Gustavo Carvalho Augusto Vilas Boas
+- [Equações de Lotka-Volterra](https://github.com/gustavoavb/PET.py/blob/master/Equações_de_Lotka-Volterra.ipynb)
+- [Efeito Doppler](https://github.com/gustavoavb/PET.py/blob/master/Efeito%20Doppler.ipynb)
+- [Movimento Browniano](https://github.com/gustavoavb/PET.py/blob/master/MovimentoBrowniano.ipynb) 
+- [Espectro sonoro com tranformada de Fourier](https://github.com/gustavoavb/PET.py/blob/master/EspectroSonoro.ipynb)
+- [Transformada em ondeletas](https://github.com/gustavoavb/PET.py/blob/master/Wavelets.ipynb)
+
+
+#### Ricardo César Silva Rêgo
+- [Órbita da Terra e Júpiter](https://github.com/Ricardo-PET/Orbita_Da_Terra_E_Jupiter/blob/master/Problema_de_tres_corpos-checkpoint.ipynb)
+- [Modelo de crescimento de um aglomerado de partículas (DLA - Cluster)](https://github.com/Ricardo-PET/Modelo_de_crescimento_de_um_aglomerado-DLA-/blob/master/Cluster_growth_model%20(DLA-Cluster)-checkpoint.ipynb)
+- [Caos no pêndulo amortecido forçado](https://github.com/Ricardo-PET/Caos_no_pendulo_amortecido_forcado/blob/master/Caos_no_pêndulo_amortecido_forçado-checkpoint.ipynb)
+- [Pêndulo esférico](https://github.com/Ricardo-PET/Pendulo_Esferico/blob/main/Pêndulo_3D-checkpoint.ipynb)
+- [Equação de Laplace](https://github.com/Ricardo-PET/Equacao_de_Laplace/blob/main/Equação_Laplace-checkpoint.ipynb)
+- [Pêndulos acoplados](https://github.com/Ricardo-PET/P-ndulos_acoplados/blob/main/Pêndulos_acoplados-checkpoint.ipynb)
+
+
+#### Felipe Menescal Pinto de Medeiros (voluntário)
+- [Equações de Lorentz](https://github.com/felipemenescal/PET.py/blob/master/lorenz.ipynb)
+- [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
+
+
+
+
+
