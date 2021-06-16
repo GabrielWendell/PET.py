@@ -7,7 +7,7 @@ https://petfisica.home.blog/
 
 
 ### Notebooks
-Pasta contendo Notebooks escritos pelo estudante Gabriel Wendell Celestino Rocha apresentando a solução de problemas físicos famosos usando os conhecimentos adquiridos na disciplina de Física Computacional usando a linguagem de programação Python como contribuição à iniciativa `PET.py` do PET - Física / UFRN. \
+Pasta contendo os `Notebooks` escritos pelo estudante Gabriel Wendell Celestino Rocha apresentando a solução de problemas físicos famosos usando os conhecimentos adquiridos na disciplina de Física Computacional com auxílio da linguagem de programação Python como contribuição à iniciativa `PET.py` do PET - Física / UFRN. \
 \
 Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
@@ -22,7 +22,7 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 - [Convecção, difusão e a equação de Burgers.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Convecção%2C%20difusão%20e%20a%20equação%20de%20Burgers.ipynb)
 
-
+.
 
 ### Outros Notebooks
 Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET - Física / UFRN que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
