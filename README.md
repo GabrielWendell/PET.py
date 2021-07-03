@@ -51,6 +51,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Pêndulo esférico](https://github.com/Ricardo-PET/Pendulo_Esferico/blob/main/Pêndulo_3D-checkpoint.ipynb)
 - [Equação de Laplace](https://github.com/Ricardo-PET/Equacao_de_Laplace/blob/main/Equação_Laplace-checkpoint.ipynb)
 - [Pêndulos acoplados](https://github.com/Ricardo-PET/P-ndulos_acoplados/blob/main/Pêndulos_acoplados-checkpoint.ipynb)
+- [Sistema de três molas](https://github.com/Ricardo-PET/Tres-molas/blob/main/Tres-molas-checkpoint.ipynb)
 
 
 #### Felipe Menescal Pinto de Medeiros (voluntário)
