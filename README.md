@@ -22,6 +22,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 - [Convecção, difusão e a equação de Burgers.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Convecção%2C%20difusão%20e%20a%20equação%20de%20Burgers.ipynb)
 
+- [Construção de um diagrama de Hertzsprung-Russell.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Construção%20de%20um%20diagrama%20de%20Hertzsprung-Russell.ipynb)
+
 .
 
 ### Outros Notebooks
