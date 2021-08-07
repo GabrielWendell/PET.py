@@ -24,6 +24,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 - [Construção de um diagrama de Hertzsprung-Russell.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Construção%20de%20um%20diagrama%20de%20Hertzsprung-Russell.ipynb)
 
+- [A equação de Navier-Stokes bidimensional.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20equação%20de%20Navier-Stokes%202D.ipynb)
+
 .
 
 ### Outros Notebooks
