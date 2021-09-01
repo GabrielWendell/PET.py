@@ -31,7 +31,7 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 ### Outros Notebooks
 Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET - Física / UFRN que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
-#### Gabriel Zuza Diniz
+#### Gabriel Zuza Diniz (ativo)
 - [Pêndulo simples](https://github.com/GabrielZuza/PET/blob/master/Pendulo_Simples.ipynb)
 - [Curvas de Lissajous](https://github.com/GabrielZuza/PET/blob/master/Curva_de_lissajous.ipynb)
 - [Ciclo magnético solar por transformada de Fourier](https://github.com/GabrielZuza/PET/blob/master/Sunspots.ipynb)
@@ -40,15 +40,18 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Pêndulo de Wilberforce](https://github.com/GabrielZuza/PET/blob/master/Wilberforce_Pendulum.ipynb)
 
 
-#### Gustavo Carvalho Augusto Vilas Boas
+#### Gustavo Carvalho Augusto Vilas Boas (ex-petiano/inativo)
 - [Equações de Lotka-Volterra](https://github.com/gustavoavb/PET.py/blob/master/Equações_de_Lotka-Volterra.ipynb)
 - [Efeito Doppler](https://github.com/gustavoavb/PET.py/blob/master/Efeito%20Doppler.ipynb)
 - [Movimento Browniano](https://github.com/gustavoavb/PET.py/blob/master/MovimentoBrowniano.ipynb) 
 - [Espectro sonoro com tranformada de Fourier](https://github.com/gustavoavb/PET.py/blob/master/EspectroSonoro.ipynb)
 - [Transformada em ondeletas](https://github.com/gustavoavb/PET.py/blob/master/Wavelets.ipynb)
 
+#### Moisés da Rocha Alves (ativo)
+- [Lançamento de um bastão](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20lançamento%20de%20um%20bastão.ipynb)
 
-#### Ricardo César Silva Rêgo
+
+#### Ricardo César Silva Rêgo (inativo)
 - [Órbita da Terra e Júpiter](https://github.com/Ricardo-PET/Orbita_Da_Terra_E_Jupiter/blob/master/Problema_de_tres_corpos-checkpoint.ipynb)
 - [Modelo de crescimento de um aglomerado de partículas (DLA - Cluster)](https://github.com/Ricardo-PET/Modelo_de_crescimento_de_um_aglomerado-DLA-/blob/master/Cluster_growth_model%20(DLA-Cluster)-checkpoint.ipynb)
 - [Caos no pêndulo amortecido forçado](https://github.com/Ricardo-PET/Caos_no_pendulo_amortecido_forcado/blob/master/Caos_no_pêndulo_amortecido_forçado-checkpoint.ipynb)
