@@ -38,6 +38,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Pêndulo duplo](https://github.com/GabrielZuza/PET/blob/master/Duble_Pendulum.ipynb)
 - [Orbitais quânticos: harmônicos esféricos](https://github.com/GabrielZuza/PET/blob/master/Quantum_Orbitals_Spherical_harmonics.ipynb)
 - [Pêndulo de Wilberforce](https://github.com/GabrielZuza/PET/blob/master/Wilberforce_Pendulum.ipynb)
+- [Frequência de Brunt-Väisälä](https://github.com/GabrielZuza/PET/blob/master/Brunt-Vaisala_frequency.ipynb)
 
 
 #### Gustavo Carvalho Augusto Vilas Boas (ex-petiano/inativo)
