@@ -26,6 +26,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 - [A equação de Navier-Stokes bidimensional.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20equação%20de%20Navier-Stokes%202D.ipynb)
 
+- [O diagrama de Hubble e as supernovas](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/O%20Diagrama%20de%20Hubble%20e%20as%20supernovas.ipynb)
+
 .
 
 ### Outros Notebooks
