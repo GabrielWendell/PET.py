@@ -33,6 +33,7 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET - Física / UFRN que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
 #### Gabriel Zuza Diniz (ativo)
+- [Ressonância em um pêndulo forçado](https://github.com/GabrielZuza/PET/blob/master/%20Ressonância%20em%20um%20Pêndulo%20Forçado.ipynb)
 - [Frequência de Brunt-Väisälä](https://github.com/GabrielZuza/PET/blob/master/Brunt-Vaisala_frequency.ipynb)
 - [Pêndulo de Wilberforce](https://github.com/GabrielZuza/PET/blob/master/Wilberforce_Pendulum.ipynb)
 - [Orbitais quânticos: harmônicos esféricos](https://github.com/GabrielZuza/PET/blob/master/Quantum_Orbitals_Spherical_harmonics.ipynb)
