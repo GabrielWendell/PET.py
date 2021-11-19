@@ -11,19 +11,26 @@ Pasta contendo os `Notebooks` escritos pelo estudante Gabriel Wendell Celestino 
 Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 ### Temas abordados :
+#### Astrofísica/Cosmologia
 - [O diagrama de Hubble e as supernovas](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/O%20Diagrama%20de%20Hubble%20e%20as%20supernovas.ipynb)
-
-- [A equação de Navier-Stokes bidimensional.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20equação%20de%20Navier-Stokes%202D.ipynb)
 
 - [Construção de um diagrama de Hertzsprung-Russell.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Construção%20de%20um%20diagrama%20de%20Hertzsprung-Russell.ipynb)
 
-- [Convecção, difusão e a equação de Burgers.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Convecção%2C%20difusão%20e%20a%20equação%20de%20Burgers.ipynb)
-
 - [A cor dos objetos celestes.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20cor%20dos%20objetos%20celestes.ipynb)
 
-- [Evolução e propagação temporal da função de onda.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Evolução%20e%20propagação%20temporal%20da%20função%20de%20onda.ipynb)
-
 - [Radiação de corpo negro e a radiação cósmica de fundo (CMB).](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20radiação%20do%20corpo%20negro%20e%20a%20radiação%20cósmica%20de%20fundo%20(CMB).ipynb)
+
+
+#### Dinâmica dos Fluídos/Aerodinâmica 
+
+- [A equação de Navier-Stokes bidimensional.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20equação%20de%20Navier-Stokes%202D.ipynb)
+
+- [Convecção, difusão e a equação de Burgers.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Convecção%2C%20difusão%20e%20a%20equação%20de%20Burgers.ipynb)
+
+
+#### Mecânica Quântica
+
+- [Evolução e propagação temporal da função de onda.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Evolução%20e%20propagação%20temporal%20da%20função%20de%20onda.ipynb)
 
 - [Resolução da equação de Schrödinger.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Resolvendo%20numericamente%20a%20equação%20de%20Schrödinger.ipynb)
 
