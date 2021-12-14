@@ -60,6 +60,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Moisés da Rocha Alves (ativo)
+- [O campo elétrico gerado por um dipolo elétrico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20campo%20elétrico%20gerado%20por%20um%20dipolo%20elétrico.ipynb)
 - [Lançamento de um bastão](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20lançamento%20de%20um%20bastão.ipynb)
 
 
