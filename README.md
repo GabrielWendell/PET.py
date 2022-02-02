@@ -12,6 +12,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 ### Temas abordados :
 #### Astrofísica/Cosmologia
+- [A projeção de Mollweide](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20projeção%20de%20Mollweide.ipynb)
+
 - [O diagrama de Hubble e as supernovas](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/O%20Diagrama%20de%20Hubble%20e%20as%20supernovas.ipynb)
 
 - [Construção de um diagrama de Hertzsprung-Russell.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Construção%20de%20um%20diagrama%20de%20Hertzsprung-Russell.ipynb)
