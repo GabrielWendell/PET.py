@@ -25,6 +25,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 #### Dinâmica dos Fluídos/Aerodinâmica 
 
+- [Vórtices potenciais e sustentação aerodinâmica](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Vórtices%20potenciais%20e%20sustentação%20aerodinâmica.ipynb)
+
 - [Fontes, sumidouros e dipolos.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Fontes%2C%20Sumidouros%20e%20Dipolos.ipynb)
 
 - [A equação de Navier-Stokes bidimensional.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20equação%20de%20Navier-Stokes%202D.ipynb)
