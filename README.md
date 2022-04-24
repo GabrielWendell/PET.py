@@ -11,7 +11,9 @@ Pasta contendo os `Notebooks` escritos pelo estudante Gabriel Wendell Celestino 
 Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 ### Temas abordados :
-#### Astrofísica/Cosmologia
+#### Astrodinâmica/Astrofísica/Cosmologia
+- [Astrodinâmica de satélites artificiais](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Astrodinâmica%20de%20satélites%20artificiais.rar)
+
 - [A projeção de Mollweide](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20projeção%20de%20Mollweide.ipynb)
 
 - [O diagrama de Hubble e as supernovas](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/O%20Diagrama%20de%20Hubble%20e%20as%20supernovas.ipynb)
