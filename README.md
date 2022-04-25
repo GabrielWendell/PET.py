@@ -12,7 +12,7 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 ### Temas abordados :
 #### Astrodinâmica/Astrofísica/Cosmologia
-- [Astrodinâmica de satélites artificiais](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Astrodinâmica%20de%20satélites%20artificiais.rar)
+- [Astrodinâmica de satélites artificiais](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Astrodinâmica%20de%20satélites%20artificiais.md)
 
 - [A projeção de Mollweide](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20projeção%20de%20Mollweide.ipynb)
 
