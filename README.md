@@ -11,7 +11,9 @@ Pasta contendo os `Notebooks` escritos pelo estudante Gabriel Wendell Celestino 
 Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 ### Temas abordados :
+
 #### Astrodinâmica/Astrofísica/Cosmologia
+
 - [Astrodinâmica de satélites artificiais](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Astrodinâmica%20de%20satélites%20artificiais.md)
 
 - [A projeção de Mollweide](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20projeção%20de%20Mollweide.ipynb)
@@ -25,7 +27,9 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 - [Radiação de corpo negro e a radiação cósmica de fundo (CMB).](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20radiação%20do%20corpo%20negro%20e%20a%20radiação%20cósmica%20de%20fundo%20(CMB).ipynb)
 
 
-#### Dinâmica dos Fluídos/Aerodinâmica 
+#### Dinâmica dos Fluídos/Aerodinâmica Clássica
+
+- [Método do painel de fontes para corpos sem sustentação](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Método%20do%20painel%20de%20fontes%20para%20corpos%20sem%20sustentação.ipynb)
 
 - [Vórtices potenciais e sustentação aerodinâmica](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Vórtices%20potenciais%20e%20sustentação%20aerodinâmica.ipynb)
 
