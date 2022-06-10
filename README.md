@@ -72,6 +72,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Moisés da Rocha Alves (ativo)
+- [Campos magnéticos gerados por uma corrente](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Campos%20magnéticos%20gerados%20por%20uma%20corrente.ipynb)
 - [A lei do deslocamento de Wien](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/A%20lei%20do%20deslocamento%20de%20Wien.ipynb)
 - [O campo elétrico gerado por um dipolo elétrico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20campo%20elétrico%20gerado%20por%20um%20dipolo%20elétrico.ipynb)
 - [Lançamento de um bastão](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20lançamento%20de%20um%20bastão.ipynb)
