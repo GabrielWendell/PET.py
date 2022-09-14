@@ -31,6 +31,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 #### Dinâmica dos Fluídos/Aerodinâmica Clássica
 
+- [Método do painel vórtice-fonte](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Método%20do%20painel%20vórtice-fonte.ipynb)
+
 - [Método do painel de fontes para corpos sem sustentação](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Método%20do%20painel%20de%20fontes%20para%20corpos%20sem%20sustentação.ipynb)
 
 - [Vórtices potenciais e sustentação aerodinâmica](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Vórtices%20potenciais%20e%20sustentação%20aerodinâmica.ipynb)
@@ -74,6 +76,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Moisés da Rocha Alves (ativo)
+- [Lançamento de projéteis: uma introdução](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20uma%20introdução.ipynb)
 - [Campos magnéticos gerados por uma corrente](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Campos%20magnéticos%20gerados%20por%20uma%20corrente.ipynb)
 - [A lei do deslocamento de Wien](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/A%20lei%20do%20deslocamento%20de%20Wien.ipynb)
 - [O campo elétrico gerado por um dipolo elétrico](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20campo%20elétrico%20gerado%20por%20um%20dipolo%20elétrico.ipynb)
