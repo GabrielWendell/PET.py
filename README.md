@@ -14,6 +14,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 #### Astrodinâmica/Astrofísica/Cosmologia
 
+- [Classificação de imagens usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20de%20imagens%20usando%20ML.ipynb)
+
 - [Classificação espectral estelar usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20espectral%20estelar%20usando%20ML.ipynb)
 
 - [Astrodinâmica de satélites artificiais](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Astrodinâmica%20de%20satélites%20artificiais.md)
