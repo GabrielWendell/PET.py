@@ -57,6 +57,9 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 ### Outros Notebooks
 Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET - Física / UFRN que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
+#### Anderson Mateus (ativo)
+- [Evolução temporal de um ferromagneto utilizando o modelo Ising 2D](https://github.com/andersonmsn0/PET.py/blob/main/Simulando%20ferromagneto%20modelo%20ising%202d/Simulando%20ferromagneto%20modelo%20ising%202d.ipynb)
+
 #### Gabriel Zuza Diniz (ex-petiano)
 - [Ressonância em um pêndulo forçado](https://github.com/GabrielZuza/PET/blob/master/%20Ressonância%20em%20um%20Pêndulo%20Forçado.ipynb)
 - [Frequência de Brunt-Väisälä](https://github.com/GabrielZuza/PET/blob/master/Brunt-Vaisala_frequency.ipynb)
