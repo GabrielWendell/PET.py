@@ -52,6 +52,10 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 - [Resolução da equação de Schrödinger.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Resolvendo%20numericamente%20a%20equação%20de%20Schrödinger.ipynb)
 
+
+#### Sistemas Dinâmicos
+- [Explorando o modelo generalizado de Lotka-Volterra.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Explorando%20o%20modelo%20generalizado%20de%20Lotka-Volterra.ipynb)
+
 ---
 
 ### Outros Notebooks
