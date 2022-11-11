@@ -85,6 +85,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Moisés da Rocha Alves (ativo)
+- [Lançamento de projéteis: o efeito Magnus](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20o%20efeito%20Magnus.ipynb)
 - [Lançamento de projéteis: uma introdução](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20uma%20introdução.ipynb)
 - [Campos magnéticos gerados por uma corrente](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Campos%20magnéticos%20gerados%20por%20uma%20corrente.ipynb)
 - [A lei do deslocamento de Wien](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/A%20lei%20do%20deslocamento%20de%20Wien.ipynb)
