@@ -1,7 +1,7 @@
 ---
 
 # IMPORTANTE!
-A plataforma GitHub na qual são postados todos os `Notebooks` do projeto [PET.py](https://github.com/GabrielWendell/PET.py/blob/main/README.md) possui uma limitação de arquivos de 25 MB, isso quer dizer que qualquer arquivo que você desej postar no GitHub não deve ultrapassar 25 MB de tamanho.
+A plataforma GitHub na qual são postados todos os `Notebooks` do projeto [PET.py](https://github.com/GabrielWendell/PET.py/blob/main/README.md) possui uma limitação de arquivos de 25 MB, isso quer dizer que qualquer arquivo que você deseje postar no GitHub não deve ultrapassar 25 MB de tamanho.
 
 Este `Notebook` em particular, devido a uma série de gráficos interativos gerados ao longo do mesmo (todos os gráficos gerados neste `Notebook` são interativos), acabou tendo uma extensão maior do que a permitida pelo GitHub (39MB+). Dessa forma, para não compromenter a qualidade do projeto, optou-se por gerar o arquivo PDF do `Notebook` original para que o leitor possa acompanhar o mesmo sem demais problemas.
 
