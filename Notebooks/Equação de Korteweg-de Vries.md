@@ -1,15 +1,16 @@
 ---
 
 # IMPORTANTE!
-A plataforma GitHub na qual são postados todos os `Notebooks` do projeto [PET.py](https://github.com/GabrielWendell/PET.py/blob/main/README.md) possui uma limitação de arquivos de 25 MB, isso quer dizer que qualquer arquivo que você desej postar no GitHub não deve ultrapassar 25 MB de tamanho.
+A plataforma GitHub na qual são postados todos os `Notebooks` do projeto [PET.py](https://github.com/GabrielWendell/PET.py/blob/main/README.md) possui uma limitação de arquivos de 25 MB, isso quer dizer que qualquer arquivo que você deseje postar no GitHub não deve ultrapassar 25 MB de tamanho.
 
-Este `Notebook` em particular, devido a uma série de gráficos interativos gerados ao longo do mesmo (todos os gráficos gerados neste `Notebook` são interativos), acabou tendo uma extensão maior do que a permitida pelo GitHub (39MB+). Dessa forma, para não compromenter a qualidade do projeto, optou-se por gerar o arquivo PDF do `Notebook` original para que o leitor possa acompanhar o mesmo sem demais problemas.
+Este `Notebook` em particular, devido a uma série de gráficos interativos gerados ao longo do mesmo, acabou tendo uma extensão maior do que a permitida pelo GitHub (84MB+). Dessa forma, para não compromenter a qualidade do projeto, optou-se por comprimir o `Notebook` original para que o leitor possa acompanhar o mesmo sem demais problemas em sua própria máquina.
 
-Dessa forma, este arquivo .md visa explicar ao leitor o passo a passo necessário para a descompactação e abertura do `Notebook` *Astrodinâmica de satélites artificiais*.
+Dessa forma, este arquivo .md visa explicar ao leitor o passo a passo necessário para a descompactação e abertura do `Notebook` *A equação de Korteweg-de Vries*.
 
 ## Abrindo o `Notebook` original
 
 Vamos aqui explicar como acessar o `Notebook` original. Para isso, o leitor precisará primeiro realizar a descompactação do arquivo .rar e então abrir o arquivo .ipynb pelo Jupyter. Segue abaixo o detalhamento de cada passo.
+
 
 ### Passo 1: Descompactando o arquivo `.rar` 
 
