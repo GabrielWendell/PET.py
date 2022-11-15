@@ -14,7 +14,7 @@ Vamos aqui explicar como acessar o `Notebook` original. Para isso, o leitor prec
 
 ### Passo 1: Descompactando o arquivo `.rar` 
 
-O `Notebook` originou foi comprimido na extensão .rar e se encontra dentro da pasta [`Notebooks`](https://github.com/GabrielWendell/PET.py/tree/main/Notebooks) para download. Para acessar o `Notebook` basta baixar o arquivo `Astrodinâmica de satélites artificiais.rar` e abrir o arquivo comprimido com um descompactador de sua escolha (WinRAR, 7z, WinZip, etc) e extrair o `Notebook` intitulado `Astrodinâmica de satélites artificiais.ipynb`. Clique [aqui](https://www.win-rar.com/download.html?&L=0) para baixar o instalador do WinRAR 64.
+O `Notebook` original pode ser baixado através por meio deste [link](https://drive.google.com/file/d/184u9BKCwrl2ym8M-A7q0NvcaWEQAsmK1/view?usp=share_link). Para acessar o `Notebook` basta baixar o arquivo intitulado `A equação de Korteweg-de Vries.ipynb`.
 
 ### Passo 2: Instalando o `Jupyter`
 
@@ -44,8 +44,7 @@ Uma vez aberto o `Jupyter`, basta navegar até a pasta onde está salvo o `Noteb
 
 
 ### Links
-- `Astrodinâmica de satélites artificiais.rar`: https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Astrodinâmica%20de%20satélites%20artificiais.rar
-- Instalador WinRAR 64: https://www.win-rar.com/download.html?&L=0
+- `A equação de Korteweg-de Vries.ipynb`: https://drive.google.com/file/d/184u9BKCwrl2ym8M-A7q0NvcaWEQAsmK1/view?usp=share_link 
 - Página oficial do Jupyter: https://jupyter.org
 - Guia de instalação do Jupyter: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 - Documentação do Jupyter: https://jupyterlab.readthedocs.io/en/stable/
