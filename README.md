@@ -12,7 +12,7 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 ### Temas abordados :
 
-#### Astrodinâmica/Astrofísica/Cosmologia
+#### Astronomia
 
 - [Classificação de galáxias usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20de%20galáxias%20usando%20ML.ipynb)
 
@@ -31,7 +31,7 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 - [Radiação de corpo negro e a radiação cósmica de fundo (CMB).](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20radiação%20do%20corpo%20negro%20e%20a%20radiação%20cósmica%20de%20fundo%20(CMB).ipynb)
 
 
-#### Dinâmica dos Fluídos/Aerodinâmica Clássica
+#### Aerodinâmica Clássica
 
 - [Método do painel vórtice-fonte](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Método%20do%20painel%20vórtice-fonte.ipynb)
 
@@ -41,9 +41,15 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 - [Fontes, sumidouros e dipolos.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Fontes%2C%20Sumidouros%20e%20Dipolos.ipynb)
 
+
+#### Dinâmica dos Fluídos
+
+- [Solitons e a equação de Korteweg-de Vries](https://drive.google.com/file/d/184u9BKCwrl2ym8M-A7q0NvcaWEQAsmK1/view?usp=share_link)
+
 - [A equação de Navier-Stokes bidimensional.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20equação%20de%20Navier-Stokes%202D.ipynb)
 
 - [Convecção, difusão e a equação de Burgers.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Convecção%2C%20difusão%20e%20a%20equação%20de%20Burgers.ipynb)
+
 
 
 #### Mecânica Quântica
