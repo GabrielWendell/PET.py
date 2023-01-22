@@ -90,6 +90,15 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 
+#### José Arthur de Luna Oliveira (ativo)
+- [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
+
+
+
+#### Matheus Felipe Freitas Tomaz (ativo)
+- [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%201D.ipynb)
+
+
 #### Moisés da Rocha Alves (ativo)
 - [Lançamento de projéteis: o efeito Magnus](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20o%20efeito%20Magnus.ipynb)
 - [Lançamento de projéteis: uma introdução](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20uma%20introdução.ipynb)
@@ -99,7 +108,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Lançamento de um bastão](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20lançamento%20de%20um%20bastão.ipynb)
 
 
-#### Ricardo César Silva Rêgo (inativo)
+#### Ricardo César Silva Rêgo (ex-petiano)
 - [Sistema de três molas](https://github.com/Ricardo-PET/Tres-molas/blob/main/Tres-molas-checkpoint.ipynb)
 - [Pêndulos acoplados](https://github.com/Ricardo-PET/P-ndulos_acoplados/blob/main/Pêndulos_acoplados-checkpoint.ipynb)
 - [Equação de Laplace](https://github.com/Ricardo-PET/Equacao_de_Laplace/blob/main/Equação_Laplace-checkpoint.ipynb)
@@ -109,7 +118,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Órbita da Terra e Júpiter](https://github.com/Ricardo-PET/Orbita_Da_Terra_E_Jupiter/blob/master/Problema_de_tres_corpos-checkpoint.ipynb)
 
 
-#### Felipe Menescal Pinto de Medeiros (voluntário)
+#### Felipe Menescal Pinto de Medeiros (ex-petiano)
 - [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
 - [Equações de Lorentz](https://github.com/felipemenescal/PET.py/blob/master/lorenz.ipynb)
 
