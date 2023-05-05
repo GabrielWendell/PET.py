@@ -54,6 +54,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 #### Mecânica Quântica
 
+- [Efeito Aharonov-Bohm](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Efeito%20Aharonov-Bohm.ipynb)
+
 - [Evolução e propagação temporal da função de onda.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Evolução%20e%20propagação%20temporal%20da%20função%20de%20onda.ipynb)
 
 - [Resolução da equação de Schrödinger.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Resolvendo%20numericamente%20a%20equação%20de%20Schrödinger.ipynb)
@@ -96,6 +98,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Matheus Felipe Freitas Tomaz (ativo)
+- [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%202D%20(1).ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%201D.ipynb)
 
 
