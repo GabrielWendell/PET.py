@@ -98,6 +98,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Matheus Felipe Freitas Tomaz (ativo)
+- [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Algoritmo%20de%20reconstrução%20esparsa%20-%20MPFI.ipynb)
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%202D%20(1).ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%201D.ipynb)
 
