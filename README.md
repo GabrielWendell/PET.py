@@ -54,6 +54,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 #### Mecânica Quântica
 
+- [Efeito Hall Quântico](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Efeito%20Hall%20Quântico.ipynb)
+
 - [Efeito Aharonov-Bohm](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Efeito%20Aharonov-Bohm.ipynb)
 
 - [Evolução e propagação temporal da função de onda.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Evolução%20e%20propagação%20temporal%20da%20função%20de%20onda.ipynb)
