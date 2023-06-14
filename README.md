@@ -95,6 +95,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### José Arthur de Luna Oliveira (ativo)
+- [Investigação da energia de ligação entre átomos utilizando o potencial de Lennard-Jones.](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Investiga%C3%A7%C3%A3o%20da%20energia%20de%20liga%C3%A7%C3%A3o%20entre%20%C3%A1tomos%20utilizando%20o%20potencial%20de%20Lennard-Jones..ipynb)
 - [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
 
 
@@ -106,6 +107,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Moisés da Rocha Alves (ativo)
+- [Propagação temporal de uma função de onda (método de Crank-Nicolson)](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Propaga%C3%A7%C3%A3o%20temporal%20de%20uma%20fun%C3%A7%C3%A3o%20de%20onda%20(m%C3%A9todo%20de%20Crank-Nicolson).ipynb)
 - [Lançamento de projéteis: o efeito Magnus](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20o%20efeito%20Magnus.ipynb)
 - [Lançamento de projéteis: uma introdução](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20uma%20introdução.ipynb)
 - [Campos magnéticos gerados por uma corrente](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Campos%20magnéticos%20gerados%20por%20uma%20corrente.ipynb)
