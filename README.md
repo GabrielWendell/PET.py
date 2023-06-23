@@ -64,6 +64,8 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 
 #### Sistemas Dinâmicos
+- [Evolução de um ecossistema via modelo generalizado de Lotka-Volterra](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Evolução%20de%20um%20ecossistema%20via%20gLV.ipynb)
+
 - [Explorando o modelo generalizado de Lotka-Volterra.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Explorando%20o%20modelo%20generalizado%20de%20Lotka-Volterra.ipynb)
 
 ---
