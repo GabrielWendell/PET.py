@@ -76,6 +76,11 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 #### Anderson Mateus (ativo)
 - [Evolução temporal de um ferromagneto utilizando o modelo Ising 2D](https://github.com/andersonmsn0/PET.py/blob/main/Simulando%20ferromagneto%20modelo%20ising%202d/Simulando%20ferromagneto%20modelo%20ising%202d.ipynb)
 
+
+#### Felipe Menescal Pinto de Medeiros (ex-petiano)
+- [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
+- [Equações de Lorentz](https://github.com/felipemenescal/PET.py/blob/master/lorenz.ipynb)
+
 #### Gabriel Zuza Diniz (ex-petiano)
 - [Ressonância em um pêndulo forçado](https://github.com/GabrielZuza/PET/blob/master/%20Ressonância%20em%20um%20Pêndulo%20Forçado.ipynb)
 - [Frequência de Brunt-Väisälä](https://github.com/GabrielZuza/PET/blob/master/Brunt-Vaisala_frequency.ipynb)
@@ -103,6 +108,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Matheus Felipe Freitas Tomaz (ativo)
+- [Interpolação de um dado sísmico](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Interpolação%20de%20um%20dado%20sísmico.ipynb)
 - [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Algoritmo%20de%20reconstrução%20esparsa%20-%20MPFI.ipynb)
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%202D%20(1).ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%201D.ipynb)
@@ -128,9 +134,8 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Órbita da Terra e Júpiter](https://github.com/Ricardo-PET/Orbita_Da_Terra_E_Jupiter/blob/master/Problema_de_tres_corpos-checkpoint.ipynb)
 
 
-#### Felipe Menescal Pinto de Medeiros (ex-petiano)
-- [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
-- [Equações de Lorentz](https://github.com/felipemenescal/PET.py/blob/master/lorenz.ipynb)
+### Tiago Pernambuco (ativo)
+- [Autoenergias de uma partícula em um poço de potencial infinito](https://github.com/TiagoPernambuco/PET.py/blob/main/Poço%20de%20Potencial%20Infinito.ipynb)
 
 
 
