@@ -6,7 +6,7 @@ O PET - Física da UFRN apresenta aqui o [PET.py](https://petfisica.home.blog/pe
 
 
 ### Notebooks
-Pasta contendo os `Notebooks` escritos pelo estudante Gabriel Wendell Celestino Rocha apresentando a solução de problemas físicos famosos usando os conhecimentos adquiridos na disciplina de Física Computacional com auxílio da linguagem de programação Python como contribuição à iniciativa `PET.py` do PET - Física / UFRN. \
+Pasta contendo os `Notebooks` escritos pelo estudante Gabriel Wendell Celestino Rocha (2020 - 2022) apresentando a solução de problemas físicos famosos usando os conhecimentos adquiridos na disciplina de Física Computacional com auxílio da linguagem de programação Python como contribuição à iniciativa `PET.py` do PET - Física / UFRN. \
 \
 Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
@@ -73,19 +73,20 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 ### Outros Notebooks
 Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET - Física / UFRN que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
-#### Anderson Mateus (ativo)
+#### Anderson Mateus (ativo, 2024)
 - [Evolução temporal de um ferromagneto utilizando o modelo Ising 2D](https://github.com/andersonmsn0/PET.py/blob/main/Simulando%20ferromagneto%20modelo%20ising%202d/Simulando%20ferromagneto%20modelo%20ising%202d.ipynb)
 
 
-#### Bruno Ramos Galindo
+#### Bruno Ramos Galindo (ativo)
+- [Determinando a distância interestelar.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Determinando%20a%20dist%C3%A2ncia%20interestelar.ipynb)
 - [Cinemática e Dinâmica de Rotação.](https://github.com/Elbruno237/PET.py/blob/main/Cinematica_e_Dinamica_rotacional.ipynb)
 
 
-#### Felipe Menescal Pinto de Medeiros (ex-petiano)
+#### Felipe Menescal Pinto de Medeiros (ex-petiano, 2021)
 - [Decaimento radioativo](https://github.com/felipemenescal/PET.py/blob/master/radioatividade.ipynb)
 - [Equações de Lorentz](https://github.com/felipemenescal/PET.py/blob/master/lorenz.ipynb)
 
-#### Gabriel Zuza Diniz (ex-petiano)
+#### Gabriel Zuza Diniz (ex-petiano, 2021)
 - [Ressonância em um pêndulo forçado](https://github.com/GabrielZuza/PET/blob/master/%20Ressonância%20em%20um%20Pêndulo%20Forçado.ipynb)
 - [Frequência de Brunt-Väisälä](https://github.com/GabrielZuza/PET/blob/master/Brunt-Vaisala_frequency.ipynb)
 - [Pêndulo de Wilberforce](https://github.com/GabrielZuza/PET/blob/master/Wilberforce_Pendulum.ipynb)
@@ -96,7 +97,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Pêndulo simples](https://github.com/GabrielZuza/PET/blob/master/Pendulo_Simples.ipynb)
 
 
-#### Gustavo Carvalho Augusto Vilas Boas (ex-petiano/inativo)
+#### Gustavo Carvalho Augusto Vilas Boas (ex-petiano, 2022)
 - [Transformada em ondeletas](https://github.com/gustavoavb/PET.py/blob/master/Wavelets.ipynb)
 - [Espectro sonoro com tranformada de Fourier](https://github.com/gustavoavb/PET.py/blob/master/EspectroSonoro.ipynb)
 - [Movimento Browniano](https://github.com/gustavoavb/PET.py/blob/master/MovimentoBrowniano.ipynb) 
@@ -106,20 +107,21 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### José Arthur de Luna Oliveira (ativo)
+- [Método Numérico de Numerov.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Metodo_de_Numerov.ipynb)
 - [Deformando nanotubo de carbono](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Deformando%20nanotubo%20de%20carbono.ipynb)
 - [Investigação da energia de ligação entre átomos utilizando o potencial de Lennard-Jones.](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Investiga%C3%A7%C3%A3o%20da%20energia%20de%20liga%C3%A7%C3%A3o%20entre%20%C3%A1tomos%20utilizando%20o%20potencial%20de%20Lennard-Jones..ipynb)
 - [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
 
 
 
-#### Matheus Felipe Freitas Tomaz (ativo)
+#### Matheus Felipe Freitas Tomaz (ex-petiano, 2023)
 - [Interpolação de um dado sísmico](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Interpolação%20de%20um%20dado%20sísmico.ipynb)
 - [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Algoritmo%20de%20reconstrução%20esparsa%20-%20MPFI.ipynb)
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%202D%20(1).ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%201D.ipynb)
 
 
-#### Moisés da Rocha Alves (ativo)
+#### Moisés da Rocha Alves (ex-petiano, 2023)
 - [Propagação temporal de uma função de onda (método de Crank-Nicolson)](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Propaga%C3%A7%C3%A3o%20temporal%20de%20uma%20fun%C3%A7%C3%A3o%20de%20onda%20(m%C3%A9todo%20de%20Crank-Nicolson).ipynb)
 - [Lançamento de projéteis: o efeito Magnus](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20o%20efeito%20Magnus.ipynb)
 - [Lançamento de projéteis: uma introdução](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20uma%20introdução.ipynb)
@@ -129,7 +131,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Lançamento de um bastão](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20lançamento%20de%20um%20bastão.ipynb)
 
 
-#### Ricardo César Silva Rêgo (ex-petiano)
+#### Ricardo César Silva Rêgo (ex-petiano, 2022)
 - [Sistema de três molas](https://github.com/Ricardo-PET/Tres-molas/blob/main/Tres-molas-checkpoint.ipynb)
 - [Pêndulos acoplados](https://github.com/Ricardo-PET/P-ndulos_acoplados/blob/main/Pêndulos_acoplados-checkpoint.ipynb)
 - [Equação de Laplace](https://github.com/Ricardo-PET/Equacao_de_Laplace/blob/main/Equação_Laplace-checkpoint.ipynb)
