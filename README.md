@@ -78,6 +78,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Bruno Ramos Galindo (ativo)
+- [Efeito Compton.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Efeito%20Compton.ipynb)
 - [Determinando a distância interestelar.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Determinando%20a%20dist%C3%A2ncia%20interestelar.ipynb)
 - [Cinemática e Dinâmica de Rotação.](https://github.com/Elbruno237/PET.py/blob/main/Cinematica_e_Dinamica_rotacional.ipynb)
 
