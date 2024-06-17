@@ -73,7 +73,10 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 ### Outros Notebooks
 Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET - Física / UFRN que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
-#### Anderson Mateus (ativo, 2024)
+#### Amannda Laura de Silva (ativa)
+- [Oscilador Harmônico Quântico: Uma Abordagem Computacional](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Oscilador%20Harm%C3%B4nico%20Qu%C3%A2ntico%20Uma%20Abordagem%C2%A0Computacional.ipynb)
+
+#### Anderson Mateus (ex-petiano, 2023)
 - [Evolução temporal de um ferromagneto utilizando o modelo Ising 2D](https://github.com/andersonmsn0/PET.py/blob/main/Simulando%20ferromagneto%20modelo%20ising%202d/Simulando%20ferromagneto%20modelo%20ising%202d.ipynb)
 
 
