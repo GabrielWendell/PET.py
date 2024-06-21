@@ -111,9 +111,10 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### José Arthur de Luna Oliveira (ativo)
-- [Método Numérico de Numerov.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Metodo_de_Numerov.ipynb)
+- [Tunelamento Quântico](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Tunalamento_quantico.ipynb)
+- [Método Numérico de Numerov](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Metodo_de_Numerov.ipynb)
 - [Deformando nanotubo de carbono](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Deformando%20nanotubo%20de%20carbono.ipynb)
-- [Investigação da energia de ligação entre átomos utilizando o potencial de Lennard-Jones.](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Investiga%C3%A7%C3%A3o%20da%20energia%20de%20liga%C3%A7%C3%A3o%20entre%20%C3%A1tomos%20utilizando%20o%20potencial%20de%20Lennard-Jones..ipynb)
+- [Investigação da energia de ligação entre átomos utilizando o potencial de Lennard-Jones](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Investiga%C3%A7%C3%A3o%20da%20energia%20de%20liga%C3%A7%C3%A3o%20entre%20%C3%A1tomos%20utilizando%20o%20potencial%20de%20Lennard-Jones..ipynb)
 - [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
 
 
