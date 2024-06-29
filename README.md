@@ -128,6 +128,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Moisés da Rocha Alves (ex-petiano, 2023)
+- [Não-localidade de Bell e o teorema de Bell](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/N%C3%A3o-localidade%20de%20Bell%20e%20o%20teorema%20de%20Bell.ipynb)
 - [Propagação temporal de uma função de onda (método de Crank-Nicolson)](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Propaga%C3%A7%C3%A3o%20temporal%20de%20uma%20fun%C3%A7%C3%A3o%20de%20onda%20(m%C3%A9todo%20de%20Crank-Nicolson).ipynb)
 - [Lançamento de projéteis: o efeito Magnus](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20o%20efeito%20Magnus.ipynb)
 - [Lançamento de projéteis: uma introdução](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/Lançamento%20de%20projéteis%2C%20uma%20introdução.ipynb)
