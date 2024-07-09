@@ -71,6 +71,7 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 ---
 
 ## Notebooks em destaque
+Nesta seção, destaca-se alguns dos Notebooks mais importantes, bem escritos, didáticos e completos do projeto PET.py. Esses Notebooks foram selecionados por sua qualidade e contribuição significativa para o entendimento de problemas físicos utilizando Python.
 
 ---
 
