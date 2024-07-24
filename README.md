@@ -128,7 +128,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 #### Matheus Felipe Freitas Tomaz (ex-petiano, 2023)
 - [Modelagem Acústica Via Diferenças Finitas](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelagem%20ac%C3%BAstica%20via%20diferen%C3%A7as%20finitas.ipynb)
 - [Interpolação de um dado sísmico](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Interpolação%20de%20um%20dado%20sísmico.ipynb)
-- [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Algoritmo%20de%20reconstrução%20esparsa%20-%20MPFI.ipynb)
+- [Algoritmo de reconstrução esparsa - MPFI](https://github.com/MathPhelip/PET.py/blob/main/Notebooks/Algoritmo%20de%20reconstru%C3%A7%C3%A3o%20esparsa%20-%20MPFI.ipynb)
 - [Condução térmica bidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%202D%20(1).ipynb)
 - [Condução térmica unidimensional](https://github.com/MathPhelip/PET.py/blob/main/CONDUÇÃO%20TÉRMICA%201D.ipynb)
 
