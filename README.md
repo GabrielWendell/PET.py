@@ -120,7 +120,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Tunelamento Quântico](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Tunalamento_quantico.ipynb)
 - [Método Numérico de Numerov](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Metodo_de_Numerov.ipynb)
 - [Deformando nanotubo de carbono](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Deformando%20nanotubo%20de%20carbono.ipynb)
-- [Investigação da energia de ligação entre átomos utilizando o potencial de Lennard-Jones](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Investiga%C3%A7%C3%A3o%20da%20energia%20de%20liga%C3%A7%C3%A3o%20entre%20%C3%A1tomos%20utilizando%20o%20potencial%20de%20Lennard-Jones..ipynb)
+- [Investigação da energia de ligação entre átomos utilizando o potencial de Lennard-Jones](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Investiga%C3%A7%C3%A3o%20da%20energia%20de%20liga%C3%A7%C3%A3o%20entre%20%C3%A1tomos%20utilizando%20o%20potencial%20de%20Lennard-Jones.ipynb)
 - [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
 
 
@@ -159,4 +159,4 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equa%C3%A7%C3%A3o%20de%20Gross-Pitaevskii.ipynb)
 - [Transições de fase do modelo de Ising de campo transversal com NetKet](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Transições%20de%20fase%20do%20modelo%20de%20Ising%20de%20campo%20transversal%20com%20NetKet.ipynb)
 - [Autoenergias de uma partícula em um poço de potencial infinito](https://github.com/TiagoPernambuco/PET.py/blob/main/Poço%20de%20Potencial%20Infinito.ipynb)
-- 
+
