@@ -125,6 +125,10 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
 
 
+#### José Emanuel Vasconcelos Oliveira / Ylana Karolina Santos Lopes (ativos)
+- [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Tr%C3%A2nsito%20Planet%C3%A1rio.ipynb)
+
+
 
 #### Matheus Felipe Freitas Tomaz (ex-petiano, 2023)
 - [Modelagem Acústica Via Diferenças Finitas](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelagem%20ac%C3%BAstica%20via%20diferen%C3%A7as%20finitas.ipynb)
