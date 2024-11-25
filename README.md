@@ -86,6 +86,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Bruno Ramos Galindo (ativo)
+- [Efeito Rossiter-McLaughlin](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/O_Efeito_Rossiter_McLaughlin.ipynb)
 - [Mecânica Orbital (Leis de Kepler e dois corpos)](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Mec%C3%A2nica%20Orbital.ipynb)
 - [Efeito Compton.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Efeito%20Compton.ipynb)
 - [Determinando a distância interestelar.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Determinando%20a%20dist%C3%A2ncia%20interestelar.ipynb)
