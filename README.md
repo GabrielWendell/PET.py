@@ -81,6 +81,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 #### Amannda Laura de Silva (ativa)
 - [Oscilador Harmônico Quântico: Uma Abordagem Computacional](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Oscilador%20Harm%C3%B4nico%20Qu%C3%A2ntico%20Uma%20Abordagem%C2%A0Computacional.ipynb)
 
+
 #### Anderson Mateus (ex-petiano, 2023)
 - [Evolução temporal de um ferromagneto utilizando o modelo Ising 2D](https://github.com/andersonmsn0/PET.py/blob/main/Simulando%20ferromagneto%20modelo%20ising%202d/Simulando%20ferromagneto%20modelo%20ising%202d.ipynb)
 
@@ -169,4 +170,8 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 #### Wallysson Pereira da Silva (ativo)
 - [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equa%C3%A7%C3%A3o%20de%20Onda.ipynb)
+
+
+#### Ylana Karolina Santos Lopes (ativo)
+- [Simulação de Evento de Microlentes Gravitacionais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Simula%C3%A7%C3%A3o%20de%20Evento%20de%20Microlentes%20Gravitacionais.ipynb)
 
