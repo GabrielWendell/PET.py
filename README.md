@@ -162,6 +162,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Tiago Pernambuco (ativo)
+- [Encontrando Transições de Fase com Machine Learning](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Encontrando%20Transi%C3%A7%C3%B5es%20de%20Fase%20com%20Machine%20Learning.ipynb)
 - [Localização de Anderson](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Localiza%C3%A7%C3%A3o%20de%20Anderson.ipynb)
 - [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equa%C3%A7%C3%A3o%20de%20Gross-Pitaevskii.ipynb)
 - [Transições de fase do modelo de Ising de campo transversal com NetKet](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Transições%20de%20fase%20do%20modelo%20de%20Ising%20de%20campo%20transversal%20com%20NetKet.ipynb)
