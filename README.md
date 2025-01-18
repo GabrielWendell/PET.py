@@ -127,7 +127,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Simulação do Movimento Browniano 3D](https://github.com/Josearthur266/PET.py/blob/main/Notebooks/Simulação%20do%20Movimento%20Browniano%203D.md)
 
 
-#### José Emanuel Vasconcelos Oliveira / Ylana Karolina Santos Lopes (ativos)
+#### José Emanuel Vasconcelos Oliveira (ativo)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Tr%C3%A2nsito%20Planet%C3%A1rio.ipynb)
 
 
@@ -151,7 +151,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Lançamento de um bastão](https://github.com/moseseusueus/PET.py/blob/main/Notebooks/O%20lançamento%20de%20um%20bastão.ipynb)
 
 
-#### Paulo Henrique Cunha Pacheco
+#### Paulo Henrique Cunha Pacheco (ativo)
 - [Modelo FitzHugh-Nagumo: O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
 
 
