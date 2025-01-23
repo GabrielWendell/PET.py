@@ -78,7 +78,7 @@ Nesta seção, destaca-se alguns dos Notebooks mais importantes, bem escritos, d
 ### Outros Notebooks
 Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET - Física / UFRN que também fazem parte da iniciativa `PET.py` de forma ativa ou voluntária.
 
-#### Amannda Laura de Silva (ativa)
+#### Amannda Laura de Silva (ex-petiana, 2024)
 - [Oscilador Harmônico Quântico: Uma Abordagem Computacional](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Oscilador%20Harm%C3%B4nico%20Qu%C3%A2ntico%20Uma%20Abordagem%C2%A0Computacional.ipynb)
 
 
@@ -92,6 +92,10 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 - [Efeito Compton.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Efeito%20Compton.ipynb)
 - [Determinando a distância interestelar.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Determinando%20a%20dist%C3%A2ncia%20interestelar.ipynb)
 - [Cinemática e Dinâmica de Rotação.](https://github.com/Elbruno237/PET.py/blob/main/Cinematica_e_Dinamica_rotacional.ipynb)
+
+
+#### Cecília Nunes de Carvalho (ativa)
+- [Explorando teoria musical por meio do estudo de Curvas de Lissajous](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Explorando%20teoria%20musical%20por%20meio%20do%20estudo%20de%20Curvas%20de%20Lissajous.ipynb)
 
 
 #### Felipe Menescal Pinto de Medeiros (ex-petiano, 2021)
