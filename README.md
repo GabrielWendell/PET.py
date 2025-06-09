@@ -15,39 +15,27 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 #### Astronomia
 
 - [Classificação de galáxias usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20de%20galáxias%20usando%20ML.ipynb)
-
 - [Classificação espectral estelar usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20espectral%20estelar%20usando%20ML.ipynb)
-
 - [Astrodinâmica de satélites artificiais](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Astrodinâmica%20de%20satélites%20artificiais.md)
-
 - [A projeção de Mollweide](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20projeção%20de%20Mollweide.ipynb)
-
 - [O diagrama de Hubble e as supernovas](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/O%20Diagrama%20de%20Hubble%20e%20as%20supernovas.ipynb)
-
 - [Construção de um diagrama de Hertzsprung-Russell.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Construção%20de%20um%20diagrama%20de%20Hertzsprung-Russell.ipynb)
-
 - [A cor dos objetos celestes.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20cor%20dos%20objetos%20celestes.ipynb)
-
 - [Radiação de corpo negro e a radiação cósmica de fundo (CMB).](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20radiação%20do%20corpo%20negro%20e%20a%20radiação%20cósmica%20de%20fundo%20(CMB).ipynb)
 
 
 #### Aerodinâmica Clássica
 
 - [Método do painel vórtice-fonte](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Método%20do%20painel%20vórtice-fonte.ipynb)
-
 - [Método do painel de fontes para corpos sem sustentação](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Método%20do%20painel%20de%20fontes%20para%20corpos%20sem%20sustentação.ipynb)
-
 - [Vórtices potenciais e sustentação aerodinâmica](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Vórtices%20potenciais%20e%20sustentação%20aerodinâmica.ipynb)
-
 - [Fontes, sumidouros e dipolos.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Fontes%2C%20Sumidouros%20e%20Dipolos.ipynb)
 
 
 #### Dinâmica dos Fluídos
 
 - [Solitons e a equação de Korteweg-de Vries](https://drive.google.com/file/d/184u9BKCwrl2ym8M-A7q0NvcaWEQAsmK1/view?usp=share_link)
-
 - [A equação de Navier-Stokes bidimensional.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20equação%20de%20Navier-Stokes%202D.ipynb)
-
 - [Convecção, difusão e a equação de Burgers.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Convecção%2C%20difusão%20e%20a%20equação%20de%20Burgers.ipynb)
 
 
@@ -55,17 +43,13 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 #### Mecânica Quântica
 
 - [Efeito Hall Quântico](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Efeito%20Hall%20Quântico.ipynb)
-
 - [Efeito Aharonov-Bohm](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Efeito%20Aharonov-Bohm.ipynb)
-
 - [Evolução e propagação temporal da função de onda.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Evolução%20e%20propagação%20temporal%20da%20função%20de%20onda.ipynb)
-
 - [Resolução da equação de Schrödinger.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Resolvendo%20numericamente%20a%20equação%20de%20Schrödinger.ipynb)
 
 
 #### Sistemas Dinâmicos
 - [Evolução de um ecossistema via modelo generalizado de Lotka-Volterra](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Evolução%20de%20um%20ecossistema%20via%20gLV.ipynb)
-
 - [Explorando o modelo generalizado de Lotka-Volterra.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Explorando%20o%20modelo%20generalizado%20de%20Lotka-Volterra.ipynb)
 
 ---
@@ -87,6 +71,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Bruno Ramos Galindo (ativo)
+- [Decaimento Radioativo](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Decaimento_Radioativo.ipynb)
 - [Efeito Rossiter-McLaughlin](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/O_Efeito_Rossiter_McLaughlin.ipynb)
 - [Mecânica Orbital (Leis de Kepler e dois corpos)](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Mec%C3%A2nica%20Orbital.ipynb)
 - [Efeito Compton.](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Efeito%20Compton.ipynb)
@@ -95,6 +80,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Cecília Nunes de Carvalho (ativa)
+- [Modelando uma Zona de Habitabilidade Circunstelar](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Toy%20Model%20de%20Zona%20de%20Habitabilidade%20Circunstellar.ipynb)
 - [Explorando teoria musical por meio do estudo de Curvas de Lissajous](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Explorando%20teoria%20musical%20por%20meio%20do%20estudo%20de%20Curvas%20de%20Lissajous.ipynb)
 
 
@@ -156,6 +142,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Paulo Henrique Cunha Pacheco (ativo)
+- [A Equação de Klein-Gordon em 1D](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/aEqua%C3%A7%C3%A3odeKleinGordonem1D.ipynb)
 - [Modelo FitzHugh-Nagumo: O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
 
 
@@ -170,6 +157,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Tiago Pernambuco (ativo)
+- [Átomos de Rydberg: Um Estudo de Campo Médio](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Rydberg.ipynb)
 - [Encontrando Transições de Fase com Machine Learning](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Encontrando%20Transi%C3%A7%C3%B5es%20de%20Fase%20com%20Machine%20Learning.ipynb)
 - [Localização de Anderson](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Localiza%C3%A7%C3%A3o%20de%20Anderson.ipynb)
 - [Estudando Condensados de Bose-Einstein com a Equação de Gross-Pitaevskii](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/A%20Equa%C3%A7%C3%A3o%20de%20Gross-Pitaevskii.ipynb)
@@ -178,9 +166,13 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Wallysson Pereira da Silva (ativo)
+- [O Problema do Caixeiro Viajante](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Problema%20do%20Caixeiro%20Viajante.ipynb)
+- [Instabilidade no movimento relativístico de partículas num campo eletromagnético não uniforme](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Instabilidade%20no%20movimento%20relativ%C3%ADstico%20de%20part%C3%ADculas%20num%20campo%20eletromagn%C3%A9tico%20n%C3%A3o%20uniforme.ipynb)
 - [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equa%C3%A7%C3%A3o%20de%20Onda.ipynb)
 
 
 #### Ylana Karolina Santos Lopes (ativo)
+- [Modelo SIR: Uma abordagem estocástica e determinística](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20SIR_Uma%20abordagem%20estoc%C3%A1stica%20e%20determin%C3%ADstica.ipynb)
+- [Modelo FitzHugh-Nagumo: O oscilador de Van der Pol em disparos neurais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Modelo%20FitzHugh-Nagumo_O%20oscilador%20de%20Van%20der%20Pol%20em%20disparos%20neurais.ipynb)
 - [Simulação de Evento de Microlentes Gravitacionais](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Simula%C3%A7%C3%A3o%20de%20Evento%20de%20Microlentes%20Gravitacionais.ipynb)
 
