@@ -13,7 +13,6 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 ### Temas abordados :
 
 #### Astronomia
-
 - [Classificação de galáxias usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20de%20galáxias%20usando%20ML.ipynb)
 - [Classificação espectral estelar usando *Machine Learning*](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Classificação%20espectral%20estelar%20usando%20ML.ipynb)
 - [Astrodinâmica de satélites artificiais](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Astrodinâmica%20de%20satélites%20artificiais.md)
@@ -25,7 +24,6 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 
 #### Aerodinâmica Clássica
-
 - [Método do painel vórtice-fonte](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Método%20do%20painel%20vórtice-fonte.ipynb)
 - [Método do painel de fontes para corpos sem sustentação](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Método%20do%20painel%20de%20fontes%20para%20corpos%20sem%20sustentação.ipynb)
 - [Vórtices potenciais e sustentação aerodinâmica](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Vórtices%20potenciais%20e%20sustentação%20aerodinâmica.ipynb)
@@ -33,7 +31,6 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 
 #### Dinâmica dos Fluídos
-
 - [Solitons e a equação de Korteweg-de Vries](https://drive.google.com/file/d/184u9BKCwrl2ym8M-A7q0NvcaWEQAsmK1/view?usp=share_link)
 - [A equação de Navier-Stokes bidimensional.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/A%20equação%20de%20Navier-Stokes%202D.ipynb)
 - [Convecção, difusão e a equação de Burgers.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Convecção%2C%20difusão%20e%20a%20equação%20de%20Burgers.ipynb)
@@ -41,7 +38,6 @@ Os plots de todos os `Notebooks` estão na pasta `Plots`.
 
 
 #### Mecânica Quântica
-
 - [Efeito Hall Quântico](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Efeito%20Hall%20Quântico.ipynb)
 - [Efeito Aharonov-Bohm](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Efeito%20Aharonov-Bohm.ipynb)
 - [Evolução e propagação temporal da função de onda.](https://github.com/GabrielWendell/PET.py/blob/main/Notebooks/Evolução%20e%20propagação%20temporal%20da%20função%20de%20onda.ipynb)
