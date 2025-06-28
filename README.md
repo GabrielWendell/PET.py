@@ -108,7 +108,8 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 
-#### José Arthur de Luna Oliveira (ativo)
+#### José Arthur de Luna Oliveira (ex-petiano, 2025)
+- [Estrutura de Bandas do Grafeno](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Estrutura_de_bandas_do_grafeno.ipynb)
 - [Calculando Módulo de Young do Grafeno](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Calculando_Modulo_de_Young_do_Grafeno.ipynb)
 - [Tunelamento Quântico](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Tunalamento_quantico.ipynb)
 - [Método Numérico de Numerov](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Metodo_de_Numerov.ipynb)
