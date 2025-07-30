@@ -115,6 +115,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### José Emanuel Vasconcelos Oliveira (ativo)
+- [Determinação de período de exoplaneta por velocidade radial](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Per%C3%ADodo%20de%20exoplaneta%20-%20Velocidade%20Radial%20e%20Lomb-Scargle.ipynb)
 - [Identificando Trânsito Planetário usando o Método Box Least Square](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Identificando%20Tr%C3%A2nsito%20Planet%C3%A1rio.ipynb)
 
 
@@ -163,6 +164,7 @@ Aqui você pode conferir outros `Notebooks` elaborados por outros membros do PET
 
 
 #### Wallysson Pereira da Silva (ativo)
+- [Atratores Caóticos](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Atratores%20Ca%C3%B3ticos.ipynb)
 - [O Problema do Caixeiro Viajante](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Problema%20do%20Caixeiro%20Viajante.ipynb)
 - [Instabilidade no movimento relativístico de partículas num campo eletromagnético não uniforme](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Instabilidade%20no%20movimento%20relativ%C3%ADstico%20de%20part%C3%ADculas%20num%20campo%20eletromagn%C3%A9tico%20n%C3%A3o%20uniforme.ipynb)
 - [Equação de Onda: uma abordagem numérica e analítica](https://github.com/PETfisicaUFRN/PET.py/blob/main/Notebooks/Equa%C3%A7%C3%A3o%20de%20Onda.ipynb)
